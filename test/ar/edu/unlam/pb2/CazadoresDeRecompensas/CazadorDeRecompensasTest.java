@@ -4,9 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import ar.edu.unlam.pb2.Cazadores.CazadorDeRecompensas;
-import ar.edu.unlam.pb2.Cazadores.CazadorUrbano;
-
 public class CazadorDeRecompensasTest {
 
     @Test

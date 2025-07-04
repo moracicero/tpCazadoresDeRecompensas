@@ -1,12 +1,6 @@
 package ar.edu.unlam.pb2.CazadoresDeRecompensas;
 
-import static org.junit.Assert.*;
-
 import org.junit.Test;
-
-import ar.edu.unlam.pb2.Cazadores.Agencia;
-import ar.edu.unlam.pb2.Cazadores.CazadorDuplicadoException;
-import ar.edu.unlam.pb2.Cazadores.CazadorUrbano;
 
 public class CazadorDuplicadoExceptionTest {
 
