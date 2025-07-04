@@ -1,2 +1,2 @@
 # tpCazadoresDeRecompensas
-Trabajo Practico segundo parcial, programacion basica II, 
+Trabajo Practico segundo parcial, programacion basica II, Cicero y Gerez.
